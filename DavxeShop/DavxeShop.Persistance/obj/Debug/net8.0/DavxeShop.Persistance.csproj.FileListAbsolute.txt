@@ -1,0 +1,15 @@
+C:\Users\Tonaxe\Desktop\DavxeShop\DavxeShop.Persistance\bin\Debug\net8.0\DavxeShop.Persistance.deps.json
+C:\Users\Tonaxe\Desktop\DavxeShop\DavxeShop.Persistance\bin\Debug\net8.0\DavxeShop.Persistance.dll
+C:\Users\Tonaxe\Desktop\DavxeShop\DavxeShop.Persistance\bin\Debug\net8.0\DavxeShop.Persistance.pdb
+C:\Users\Tonaxe\Desktop\DavxeShop\DavxeShop.Persistance\bin\Debug\net8.0\DavxeShop.Models.dll
+C:\Users\Tonaxe\Desktop\DavxeShop\DavxeShop.Persistance\bin\Debug\net8.0\DavxeShop.Models.pdb
+C:\Users\Tonaxe\Desktop\DavxeShop\DavxeShop.Persistance\obj\Debug\net8.0\DavxeShop.Persistance.csproj.AssemblyReference.cache
+C:\Users\Tonaxe\Desktop\DavxeShop\DavxeShop.Persistance\obj\Debug\net8.0\DavxeShop.Persistance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tonaxe\Desktop\DavxeShop\DavxeShop.Persistance\obj\Debug\net8.0\DavxeShop.Persistance.AssemblyInfoInputs.cache
+C:\Users\Tonaxe\Desktop\DavxeShop\DavxeShop.Persistance\obj\Debug\net8.0\DavxeShop.Persistance.AssemblyInfo.cs
+C:\Users\Tonaxe\Desktop\DavxeShop\DavxeShop.Persistance\obj\Debug\net8.0\DavxeShop.Persistance.csproj.CoreCompileInputs.cache
+C:\Users\Tonaxe\Desktop\DavxeShop\DavxeShop.Persistance\obj\Debug\net8.0\DavxeSho.594BBB21.Up2Date
+C:\Users\Tonaxe\Desktop\DavxeShop\DavxeShop.Persistance\obj\Debug\net8.0\DavxeShop.Persistance.dll
+C:\Users\Tonaxe\Desktop\DavxeShop\DavxeShop.Persistance\obj\Debug\net8.0\refint\DavxeShop.Persistance.dll
+C:\Users\Tonaxe\Desktop\DavxeShop\DavxeShop.Persistance\obj\Debug\net8.0\DavxeShop.Persistance.pdb
+C:\Users\Tonaxe\Desktop\DavxeShop\DavxeShop.Persistance\obj\Debug\net8.0\ref\DavxeShop.Persistance.dll
